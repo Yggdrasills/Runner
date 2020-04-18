@@ -27,5 +27,12 @@ namespace TRex.Utils.Extensions
             pos.x += x;
             xyz.position = pos;
         }
+
+        public static void SetPositionX(this Transform xyz, float x)
+        {
+            Vector3 pos = xyz.position;
+            pos.x = x;
+            xyz.position = pos;
+        }
     }
 }
