@@ -9,13 +9,7 @@ namespace TRex.Controllers.Sounds
     {
         [SerializeField] private Text _scoreText = null;
         [SerializeField] private Text _highScore = null;
-        private ScoringSound _sound;
         private float _score = 1;
-
-        private void Awake()
-        {
-            _sound = GetComponent<ScoringSound>();
-        }
 
         private void OnEnable()
         {
@@ -32,10 +26,6 @@ namespace TRex.Controllers.Sounds
             _score += Time.deltaTime * 10;
             int score = (int)_score;
             _scoreText.text = score.ToString();
-
-            if (score % 100 != 0) return;
-
-            _sound.PlaySound();
         }
 
         private void SetHighScore()
