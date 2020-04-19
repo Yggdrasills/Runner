@@ -49,7 +49,7 @@ GameObject:
   - component: {fileID: 5658188989864738772}
   - component: {fileID: 7130272851478007078}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Rabbit
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -343,5 +343,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07ae66419467b604ca25abd914f646ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _jumpSound: {fileID: 8300000, guid: 391657aa50d078548904b1fded0c52dc, type: 3}
+  _jumpSound: {fileID: 8300000, guid: 4c9c05689c244674cb9a0d9974622fe7, type: 3}
   _dieSound: {fileID: 8300000, guid: 21ef190e791c91c4e829a02b92df72da, type: 3}
