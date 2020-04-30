@@ -35,7 +35,7 @@ namespace BunnyHop.Utils.Editor
         private static string BuildNamespaceByPath(string path)
         {
             string[] pathFolders = path.Replace(Application.dataPath, string.Empty).Split('/');
-            string nameSpace = "TRex.";
+            string nameSpace = "BunnyHop.";
 
             for (int i = 2; i < pathFolders.Length - 1; i++)
             {
