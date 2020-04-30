@@ -9,7 +9,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace TRex.Utils.Editor
+namespace BunnyHop.Utils.Editor
 {
     public class NamespaceModificationProcessor : UnityEditor.AssetModificationProcessor
     {

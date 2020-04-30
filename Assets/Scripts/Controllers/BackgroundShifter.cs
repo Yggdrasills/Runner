@@ -1,8 +1,8 @@
-using TRex.Utils.Extensions;
+using BunnyHop.Utils.Extensions;
 
 using UnityEngine;
 
-namespace TRex.Controllers
+namespace BunnyHop.Controllers
 {
     public class BackgroundShifter : MonoBehaviour
     {

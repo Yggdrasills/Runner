@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TRex.Utils.Extensions
+namespace BunnyHop.Utils.Extensions
 {
     public static class Extensions
     {

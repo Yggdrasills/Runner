@@ -1,8 +1,8 @@
 using UnityEngine;
-using TRex.Utils.Messaging;
-using TRex.Controllers.Messaging;
+using BunnyHop.Utils.Messaging;
+using BunnyHop.Controllers.Messaging;
 
-namespace TRex.Controllers.Sounds
+namespace BunnyHop.Controllers.Sounds
 {
     public class PlayerSound : Sound
     {

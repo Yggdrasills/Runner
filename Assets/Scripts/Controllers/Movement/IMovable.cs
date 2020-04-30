@@ -1,4 +1,4 @@
-namespace TRex.Controllers.Movement
+namespace BunnyHop.Controllers.Movement
 {
     public interface IMovable
     {

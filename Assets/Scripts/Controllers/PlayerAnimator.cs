@@ -1,7 +1,7 @@
-using TRex.Constants;
+using BunnyHop.Constants;
 using UnityEngine;
 
-namespace TRex.Controllers
+namespace BunnyHop.Controllers
 {
     [RequireComponent(typeof(Animator))]
     public class PlayerAnimator : MonoBehaviour

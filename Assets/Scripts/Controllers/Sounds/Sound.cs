@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TRex.Controllers.Sounds
+namespace BunnyHop.Controllers.Sounds
 {
     [RequireComponent(typeof(AudioSource))]
     public abstract class Sound : MonoBehaviour

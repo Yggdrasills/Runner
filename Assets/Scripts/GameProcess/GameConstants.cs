@@ -1,4 +1,4 @@
-namespace TRex.Constants
+namespace BunnyHop.Constants
 {
     public class GameConstants
     {

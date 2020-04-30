@@ -28,7 +28,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace TRex.Utils.Messaging
+namespace BunnyHop.Utils.Messaging
 {
     /// <summary>
     /// Base interface for Signals

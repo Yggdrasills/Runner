@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-namespace TRex.Controllers
+namespace BunnyHop.Controllers
 {
     public class Spawner : MonoBehaviour
     {

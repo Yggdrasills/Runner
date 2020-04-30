@@ -1,9 +1,9 @@
-using TRex.Controllers.Messaging;
-using TRex.Utils.Messaging;
+using BunnyHop.Controllers.Messaging;
+using BunnyHop.Utils.Messaging;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace TRex.Controllers.Sounds
+namespace BunnyHop.Controllers.Sounds
 {
     public class Scoring : MonoBehaviour
     {

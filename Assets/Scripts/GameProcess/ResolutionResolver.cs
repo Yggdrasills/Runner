@@ -1,7 +1,7 @@
-using TRex.Utils.Extensions;
+using BunnyHop.Utils.Extensions;
 using UnityEngine;
 
-namespace TRex
+namespace BunnyHop
 {
     public class ResolutionResolver : MonoBehaviour
     {

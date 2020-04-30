@@ -1,10 +1,10 @@
-using TRex.Controllers.Messaging;
-using TRex.Utils.Extensions;
-using TRex.Utils.Messaging;
+using BunnyHop.Controllers.Messaging;
+using BunnyHop.Utils.Extensions;
+using BunnyHop.Utils.Messaging;
 using UnityEngine;
 
 
-namespace TRex.Controllers.Signal
+namespace BunnyHop.Controllers.Signal
 {
     [RequireComponent(typeof(Rigidbody2D))]
     public class PlayerJump : MonoBehaviour

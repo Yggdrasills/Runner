@@ -1,6 +1,6 @@
-using TRex.Utils.Messaging;
+using BunnyHop.Utils.Messaging;
 
-namespace TRex.Controllers.Messaging
+namespace BunnyHop.Controllers.Messaging
 {
     public class GameOverSignal : ASignal { }
 }

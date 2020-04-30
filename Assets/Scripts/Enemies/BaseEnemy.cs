@@ -1,8 +1,8 @@
-using TRex.Controllers.Messaging;
-using TRex.Utils.Messaging;
+using BunnyHop.Controllers.Messaging;
+using BunnyHop.Utils.Messaging;
 using UnityEngine;
 
-namespace TRex.Enemies
+namespace BunnyHop.Enemies
 {
     [RequireComponent(typeof(Collider2D))]
     public class BaseEnemy : MonoBehaviour, IEnemy

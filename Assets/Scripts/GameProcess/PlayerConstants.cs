@@ -1,4 +1,4 @@
-namespace TRex
+namespace BunnyHop
 {
     public class PlayerConstants
     {

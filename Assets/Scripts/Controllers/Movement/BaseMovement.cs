@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace TRex.Controllers.Movement
+namespace BunnyHop.Controllers.Movement
 {
     public class BaseMovement : MonoBehaviour, IMovable
     {

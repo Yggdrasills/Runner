@@ -1,9 +1,9 @@
-using TRex.Controllers.Messaging;
-using TRex.Utils.Messaging;
+using BunnyHop.Controllers.Messaging;
+using BunnyHop.Utils.Messaging;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-namespace TRex.Controllers
+namespace BunnyHop.Controllers
 {
     public class TouchInput : MonoBehaviour, IPointerClickHandler
     {
